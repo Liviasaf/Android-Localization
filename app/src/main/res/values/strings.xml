@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="deskripsi">Fill in this form to register as user</string>
+    <string name="app_name">MyLocalization</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email Address</string>
+    <string name="phone_numb">Phone Number</string>
+    <string name="pass">Password</string>
+    <string name="terms">I Have and agree the terms</string>
+</resources>

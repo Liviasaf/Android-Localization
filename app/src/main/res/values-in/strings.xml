@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="deskripsi">Isikan form dibawah ini untuk mendaftar sebagai pengguna</string>
+    <string name="app_name">MyLocalization</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="email">Alamat Email</string>
+    <string name="phone_numb">No Telephone</string>
+    <string name="pass">Password</string>
+    <string name="terms">Saya telah membaca dan menyetujui ketentuan</string>
+</resources>
